@@ -9,3 +9,4 @@ within scenes contains the permanent sidebar and topbar that will stay on all th
 contains the colors, fonts, dark and light themes that are to be used consistently through out the app
 
 App is hosted at [Netlify](https://managehome.netlify.app/) . 
+![image](https://user-images.githubusercontent.com/86104829/223082303-1d2d56ac-287f-4149-9007-b46f27a15b26.png)
